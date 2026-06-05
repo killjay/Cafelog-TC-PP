@@ -28,6 +28,27 @@ Café Cal collects health-related data you provide, including:
 
 With your permission, we also read data from **Apple HealthKit**, such as steps, active calories, walking/running distance, heart rate, and flights climbed. HealthKit data is never shared with third parties or used for advertising.
 
+## Android Health Connect
+
+With your permission, Café Cal connects to Android Health Connect:
+
+- **Read** — your steps and active calories burned. We read today's totals to
+  show your daily activity and calculate your calorie balance, and up to 30 days
+  of step history to power your trends and analytics.
+- **Write** — when you log a meal, we write it to Health Connect as a nutrition
+  record (calories and macros), and beverages as a hydration record, so your
+  Café Cal logs stay in sync with your other health apps.
+
+Health Connect data is processed only on your device to power these in-app
+nutrition and activity features. It is never shared with third parties, sold,
+or used for advertising, and we do not transmit your Health Connect data to our
+servers.
+
+You can grant or revoke Health Connect access at any time in the Health Connect
+app (Settings > Apps > Health Connect, or the standalone Health Connect app).
+To delete data Café Cal has written, remove it in Health Connect or delete your
+account and all associated data from Settings within the app.
+
 ### Daily Logs & Analytics
 
 We generate **aggregated daily and weekly summaries** based on your logged data, including nutrition analytics and **streak tracking**, to help you monitor your progress over time.
