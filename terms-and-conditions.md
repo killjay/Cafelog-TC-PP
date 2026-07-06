@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-**Last Updated: April 18, 2026**
+**Last Updated: July 6, 2026**
 
 ## 1. Introduction
 
@@ -60,9 +60,41 @@ By using Café Cal, you agree to use the app only for its intended purpose. You 
 
 You retain ownership of content you upload (photos, meal data). By uploading, you grant us a limited, non-exclusive, royalty-free license to store and display it as necessary to operate the service. This license ends when you delete your content or close your account. You are solely responsible for ensuring your content does not violate any third-party rights.
 
-## 5. Pricing
+## 5. Subscriptions and Payments
 
-Café Cal is currently free to download and use, with no in-app purchases or subscriptions. We may introduce optional paid features in the future, at which point these Terms will be updated to describe the billing model, cancellation, and refund processes — and you will be notified through the app before any changes take effect.
+Café Cal offers auto-renewable premium subscriptions ("Café Cal Premium") managed entirely through Apple's App Store. A subscription unlocks the app's full functionality.
+
+### Subscription Plans
+
+Café Cal Premium is offered on the following auto-renewing plans:
+
+- **Monthly** — billed every 1 month.
+- **Quarterly** — billed every 3 months, and includes a 7-day free trial for new subscribers.
+- **Yearly** — billed every 12 months, and includes a 7-day free trial for new subscribers.
+
+Prices are shown in your local currency on the subscription screen inside the app and on the App Store before you purchase, and vary by region. Any unused portion of a free trial period is forfeited when you purchase a subscription.
+
+### Billing and Auto-Renewal
+
+Subscription fees are billed to your Apple ID account upon confirmation of purchase. Subscriptions automatically renew at the same price for the same period unless auto-renewal is turned off at least 24 hours before the end of the current billing period. Your Apple ID account is charged for renewal within 24 hours prior to the end of the current period.
+
+### Cancellation
+
+You may cancel your subscription or turn off auto-renewal at any time through your Apple ID settings:
+
+1. Open **Settings** on your iPhone
+2. Tap your name, then **Subscriptions**
+3. Select **Café Cal** and tap **Cancel Subscription**
+
+Cancellation takes effect at the end of your current billing period. You retain access to premium features until that date.
+
+### Refunds
+
+All refund requests are handled exclusively by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com). Café Cal does not issue refunds directly.
+
+### Price Changes
+
+We may update subscription pricing from time to time. Apple will notify you in advance of any price changes in accordance with App Store policies. If you do not agree to a price change, you may cancel before it takes effect.
 
 ## 6. Intellectual Property
 
